@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>371346876508-uldaraak4d8pir1ifdr89k8hnfq5k2sj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.371346876508-uldaraak4d8pir1ifdr89k8hnfq5k2sj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSqJIDL7LgzjKpy93zuJsvzqxcqYIS5s4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>371346876508</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frienture.demo</string>
+	<key>PROJECT_ID</key>
+	<string>frienture-db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frienture-db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:371346876508:ios:af4c2ffadb9a4d75fe1e99</string>
+	<key>DATABASE_URL</key>
+	<string>https://frienture-db-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
